@@ -4,7 +4,7 @@ const cors = require('cors')
 const bodyParser = require('body-parser')
 const mongoose = require('mongoose')
 
-const databaseURL = 'mongodb+srv://user:user1@cluster0.2kjkr.mongodb.net'
+const databaseURL = 'mongodb+srv://user:user......@cluster0.2kjkr.mongodb.net'
 
 const app = express()
 app.use(cors())
